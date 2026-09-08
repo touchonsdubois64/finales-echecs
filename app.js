@@ -4194,7 +4194,7 @@ function variationDepthClass(
 ) {
 
     const level =
-        ((depth - 1) % 4) + 1;
+        ((depth - 1) % 5) + 1;
 
 
     return (
