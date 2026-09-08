@@ -82,35 +82,35 @@ h1 { margin:0 0 25px; text-align:center; font-size:1.8rem; color:#4a3022; }
 /* Variantes : texte noir, surlignage hiérarchique */
 .variation-depth-1 {
     color: #2a211b;
-    background: rgba(255, 230, 60, .48);
+    background: rgba(250, 245, 192, 1);
     border-radius: 3px;
     padding: 1px 3px;
 }
 
 .variation-depth-2 {
     color: #2a211b;
-    background: rgba(65, 135, 230, .40);
+    background: rgba(192, 235, 250, 1);
     border-radius: 3px;
     padding: 1px 3px;
 }
 
 .variation-depth-3 {
     color: #2a211b;
-    background: rgba(245, 155, 70, .40);
+    background: rgba(250, 221, 192, 1);
     border-radius: 3px;
     padding: 1px 3px;
 }
 
 .variation-depth-4 {
     color: #2a211b;
-    background: rgba(105, 190, 115, .34);
+    background: rgba(210, 250, 212, 1);
     border-radius: 3px;
     padding: 1px 3px;
 }
 
 .variation-depth-5 {
     color: #2a211b;
-    background: rgba(235, 105, 185, .44);
+    background: rgba(250, 200, 250, 1);
     border-radius: 3px;
     padding: 1px 3px;
 }
